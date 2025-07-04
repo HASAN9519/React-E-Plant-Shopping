@@ -34,30 +34,30 @@ Home screen:<br>
 After clicking on the “Get Started” button, the selection that the user can make appears.<br>
 Examples:<br>
 
-![image](src\assets\sample1.png)
+![image](./src/assets/sample1.png)
 
-![image](src\assets\sample2.png)
+![image](./src/assets/sample2.png)
 
-![image](src\assets\sample3.png)
+![image](./src/assets/sample3.png)
 
 The user receives feedback when making a selection, which improves the user experience.<br>
 See, for example, the grayed-out button on selection or the number of products in the shopping cart at the top right.
 
-![image](src\assets\cart.png)
+![image](./src/assets/cart.png)
 
 Once the selection has been made, he can display the contents by clicking on the shopping cart.<br>
 If necessary, the quantity can be increased or decreased.<br>
 
-![image](src\assets\cartitems.png)
+![image](./src/assets/cartitems.png)
 
 If the user still has requests and would like to display the product list, they can click on the “Continue Shopping” button.<br>
 
-![image](src\assets\cartdetails.png)
+![image](./src/assets/cartdetails.png)
 
 The implementation of the checkout button was not part of the project.<br>
 To inform the user of this, an alert is displayed when the button is clicked:<br>
 
-![image](src\assets\alert.png)
+![image](./src/assets/alert.png)
 
 More work will be done on this project in future
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
