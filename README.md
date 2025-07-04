@@ -29,7 +29,7 @@ With this application, users can select plants in an online plant shop and add t
 <br>
 Home screen:<br>
 
-![image](src\assets\homescreen.png)
+![image](./src/assets/homescreen.png)
 
 After clicking on the “Get Started” button, the selection that the user can make appears.<br>
 Examples:<br>
